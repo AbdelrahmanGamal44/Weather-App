@@ -197,6 +197,7 @@ body {
   }
   .forcast-future {
     grid-template-columns: repeat(1, 1fr);
+    padding-bottom: 40px;
   }
   .forcast-future .day {
     flex-direction: row;
