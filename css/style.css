@@ -185,7 +185,7 @@ body {
 @media (min-width: 600px) {
   .main .container {
     width: 80%;
-    height: 100%;
+    margin: 100px auto;
   }
 }
 @media (max-width: 600px) {
